@@ -1,0 +1,251 @@
+Type '//' after your answer.
+What is the capital of CENTRAL AFRICAN REPUBLIC?
+1. BANGUI
+2. HARARE
+3. ROME
+4. SAINT GEORGE'S
+What is the capital of EQUATORIAL GUINEA?
+1. GEORGETOWN
+2. PRAGUE
+3. MALABO
+4. BANDAR SERI BEGAWAN
+What is the capital of HAITI?
+1. TASHKENT
+2. BAKU
+3. PORT-AU-PRINCE
+4. BRUSSELS
+What is the capital of IRELAND?
+1. DUBLIN
+2. PORT VILA
+3. SARAJEVO
+4. HAVANA
+What is the capital of BRUNEI?
+1. SAINT JOHN'S
+2. BANDAR SERI BEGAWAN
+3. GABORONE
+4. BANDAR SERI BEGAWAN
+What is the capital of ICELAND?
+1. YAOUNDE
+2. YEREVAN
+3. REYKJAVIK
+4. BANJUL
+What is the capital of GUINEA?
+1. CONAKRY
+2. HANOI
+3. KAMPALA
+4. VIENNA
+What is the capital of VENEZUELA?
+1. HAVANA
+2. PRAGUE
+3. CARACAS
+4. BUENOS AIRES
+What is the capital of BOSNIA & HERZEGOVINA?
+1. SOUTH TARAWA
+2. SANA'A
+3. SARAJEVO
+4. JAKARTA
+What is the capital of Czech Republic?
+1. PRAGUE
+2. WASHINGTON, DC
+3. MALABO
+4. BISSAU
+What is the capital of UGANDA?
+1. NAIROBI
+2. SARAJEVO
+3. KAMPALA
+4. BANDAR SERI BEGAWAN
+What is the capital of LIBYA?
+1. TRIPOLI
+2. MBABANE
+3. ZAGREB
+4. PARIS
+What is the capital of FIJI?
+1. BERLIN
+2. TEHRAN
+3. SUVA
+4. BRAZZAVILLE
+What is the capital of CYPRUS?
+1. ASMARA
+2. NICOSIA
+3. BEIJING
+4. TOKYO
+What is the capital of BURKINA FASO?
+1. NAIROBI
+2. BRASILIA
+3. TEGUCIGALPA
+4. OUAGADOUGOU
+What is the capital of GRENADA?
+1. MANAMA
+2. SANA'A
+3. PORT-AU-PRINCE
+4. SAINT GEORGE'S
+What is the capital of ITALY?
+1. NEW DELHI
+2. KINSHASA
+3. ROME
+4. ANDORRA LA VELLA
+What is the capital of BOLIVIA?
+1. BEIJING
+2. SUCRE
+3. LUANDA
+4. BUENOS AIRES
+What is the capital of GAMBIA, THE?
+1. LUSAKA
+2. BANJUL
+3. ABU DHABI
+4. BRUSSELS
+What is the capital of BULGARIA?
+1. ALGIERS
+2. SOFIA
+3. ATHENS
+4. CARACAS
+What is the capital of ERITREA?
+1. TOKYO
+2. ACCRA
+3. ASMARA
+4. ASMARA
+What is the capital of EQUATORIAL GUINEA?
+1. BOGOT
+2. TBILISI
+3. MALABO
+4. BANGUI
+What is the capital of GUYANA?
+1. MORONI
+2. BAKU
+3. GEORGETOWN
+4. NICOSIA
+What is the capital of CABO VERDE?
+1. PRAIA
+2. CAIRO
+3. ALGIERS
+4. KUWAIT CITY
+What is the capital of BANGLADESH?
+1. SUVA
+2. MANAMA
+3. SAN JOSE
+4. DHAKA
+What is the capital of LIECHTENSTEIN?
+1. BAKU
+2. VADUZ
+3. BOGOT
+4. SAINT GEORGE'S
+What is the capital of BURUNDI?
+1. KUWAIT CITY
+2. GITEGA, BUJUMBURA
+3. MORONI
+4. SANA'A
+What is the capital of ZAMBIA?
+1. SUVA
+2. HANOI
+3. SAINT JOHN'S
+4. LUSAKA
+What is the capital of ARGENTINA?
+1. BUENOS AIRES
+2. SAN JOSE
+3. N'DJAMENA
+4. PARIS
+What is the capital of IRAQ?
+1. PARIS
+2. BAGHDAD
+3. ATHENS
+4. MINSK
+What is the capital of LIBERIA?
+1. MONROVIA
+2. TOKYO
+3. MONROVIA
+4. OTTAWA
+What is the capital of INDIA?
+1. BRIDGETOWN
+2. ROME
+3. SAN JOSE
+4. NEW DELHI
+What is the capital of BELGIUM?
+1. HANOI
+2. ATHENS
+3. BRUSSELS
+4. MINSK
+What is the capital of CHAD?
+1. WASHINGTON, DC
+2. KIEV
+3. N'DJAMENA
+4. PARIS
+What is the capital of AZERBAIJAN?
+1. GITEGA, BUJUMBURA
+2. ACCRA
+3. KINGSTON
+4. BAKU
+What is the capital of ALBANIA?
+1. OTTAWA
+2. TIRANA
+3. MBABANE
+4. VADUZ
+What is the capital of GUINEA?
+1. KINSHASA
+2. MBABANE
+3. MALABO
+4. CONAKRY
+What is the capital of COSTA RICA?
+1. GEORGETOWN
+2. HAVANA
+3. SAN JOSE
+4. PARIS
+What is the capital of KUWAIT?
+1. KUWAIT CITY
+2. LIBREVILLE
+3. PORTO-NOVO
+4. SAN SALVADOR
+What is the capital of YEMEN?
+1. SANA'A
+2. MONROVIA
+3. ASHGABAT
+4. TRIPOLI
+What is the capital of ANDORRA?
+1. SANA'A
+2. BRASILIA
+3. TEHRAN
+4. ANDORRA LA VELLA
+What is the capital of VANUATU?
+1. MANAMA
+2. PORT VILA
+3. PORT-AU-PRINCE
+4. GUATEMALA CITY
+What is the capital of ITALY?
+1. ADDIS ABABA
+2. ROME
+3. GUATEMALA CITY
+4. MASERU
+What is the capital of DOMINICA?
+1. TASHKENT
+2. ROSEAU
+3. KAMPALA
+4. SOFIA
+What is the capital of FIJI?
+1. ROSEAU
+2. SUVA
+3. VADUZ
+4. BRUSSELS
+What is the capital of BAHRAIN?
+1. MASERU
+2. BRAZZAVILLE
+3. NICOSIA
+4. MANAMA
+What is the capital of JAMAICA?
+1. AMMAN
+2. GUATEMALA CITY
+3. KINGSTON
+4. GITEGA, BUJUMBURA
+What is the capital of DENMARK?
+1. LONDON
+2. MONTEVIDEO
+3. COPENHAGEN
+4. BRIDGETOWN
+What is the capital of BRUNEI?
+1. BELMOPAN
+2. ALGIERS
+3. BANDAR SERI BEGAWAN
+4. PORT VILA
+What is the capital of COLOMBIA?
+1. NAIROBI
+2. MALABO
+3. BOGOT
+4. ADDIS ABABA
