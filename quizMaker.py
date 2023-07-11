@@ -16,9 +16,7 @@ for i in range(3):
             random.shuffle(countriesConst)
 
             file.write(f"What is the capital of {countriesVar[-1]}?\n")
-
-            print(countriesVar[-1])
-            print(len(countriesVar))
+            
             answers = [cap.capitals[countriesVar[-1]],cap.capitals[countriesConst[-2]],cap.capitals[countriesConst[-4]],cap.capitals[countriesConst[-3]]]
             
             countriesVar.pop()
