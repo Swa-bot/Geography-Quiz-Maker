@@ -29,15 +29,13 @@ else:
             if question.search(lines[i]):
                 country = question.search(lines[i]).group(1)
                 for j in range(4):
-                    print(lines[i+j+1])
 
-                    if lines[i+j+1] == f"{j+1}. {cap.capitals[country]}//":
+                    if lines[i+j+1] == f"{j+1}. {cap.capitals[country]}//" or lines[i+j+1] == f"{j+1}. {cap.capitals[country]} //":
                         total = total+1
                         answerFound = True
-                        print("YAYY!")
 
-                #if not answerFound:
-                   # print(f"The capital of {country} is {cap.capitals[country]}")
+                if not answerFound:
+                    print(f"The capital of {country} is {cap.capitals[country]}")
     print(total)
 
                 

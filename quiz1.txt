@@ -1,251 +1,571 @@
 Type '//' after your answer.
-What is the capital of BAHAMAS, THE?
-1. COPENHAGEN
-2. NASSAU//
-3. LIBREVILLE
-4. VILNIUS
-What is the capital of Czech Republic?
-1. JAKARTA
-2. BISSAU
-3. PRAGUE
-4. KUWAIT CITY
-What is the capital of JAMAICA?
-1. KAMPALA
-2. KINGSTON//
-3. VIENTIANE
-4. VIENNA
-What is the capital of VIETNAM?
-1. YEREVAN
-2. SOFIA
-3. HELSINKI
-4. HANOI//
-What is the capital of LATVIA?
-1. RIGA
-2. VIENTIANE
-3. BISHKEK
-4. RIGA//
-What is the capital of BANGLADESH?
-1. DHAKA//
-2. BANJUL
-3. SOUTH TARAWA
-4. CARACAS
-What is the capital of ALGERIA?
-1. BAKU
-2. TALLINN
-3. BANJUL
-4. ALGIERS//
-What is the capital of HUNGARY?
-1. PRISTINA
-2. PRAIA
-3. BERLIN
-4. BUDAPEST//
-What is the capital of GUINEA-BISSAU?
-1. BISSAU//
-2. MONTEVIDEO
-3. RIGA
+What is the capital of UNITED KINGDOM ?
+1. NUR-SULTAN
+2. LONDON
+3. BUDAPEST
 4. BERLIN
-What is the capital of GUINEA?
-1. PORTO-NOVO
-2. CONAKRY
-3. COPENHAGEN
-4. BEIRUT//
-What is the capital of YEMEN?
-1. TIRANA
-2. LUANDA
-3. SANA'A
-4. JAKARTA//
-What is the capital of ALBANIA?
-1. ASMARA
-2. TIRANA
-3. AMMAN//
-4. COPENHAGEN
-What is the capital of ESTONIA?
-1. HAVANA
-2. OUAGADOUGOU
-3. TALLINN
-4. NICOSIA//
-What is the capital of CHAD?
-1. MALABO
-2. N'DJAMENA
-3. GITEGA, BUJUMBURA
-4. BEIRUT//
-What is the capital of CENTRAL AFRICAN REPUBLIC?
+What is the capital of ETHIOPIA?
+1. BAKU
+2. CANBERRA
+3. CAIRO
+4. ADDIS ABABA
+What is the capital of LEBANON?
 1. GABORONE
-2. OTTAWA
-3. BRASILIA
-4. BANGUI//
-What is the capital of ALBANIA?
-1. GABORONE
-2. ROSEAU
-3. ASHGABAT
-4. TIRANA//
-What is the capital of VIETNAM?
-1. CAIRO
-2. HANOI//
-3. DJIBOUTI CITY
-4. SUVA
-What is the capital of ECUADOR?
-1. WASHINGTON, DC
-2. BUDAPEST
-3. SAN JOSE
-4. QUITO//
-What is the capital of JORDAN?
-1. SUVA
-2. DHAKA
-3. AMMAN//
-4. BEIRUT
+2. BEIRUT
+3. WASHINGTON, DC
+4. SUCRE
 What is the capital of BAHRAIN?
-1. CARACAS
-2. TALLINN
-3. DJIBOUTI CITY//
-4. MANAMA
-What is the capital of LATVIA?
-1. COPENHAGEN
-2. RIGA
-3. RIGA//
-4. KINSHASA
-What is the capital of DJIBOUTI?
-1. ASHGABAT
-2. FUNAFUTI
-3. DJIBOUTI CITY//
+1. DUBLIN
+2. MANAMA
+3. MORONI
 4. VILNIUS
-What is the capital of IRAN?
-1. TALLINN
-2. QUITO
-3. PORT VILA
-4. TEHRAN//
-What is the capital of ESWATINI (formerly Swaziland)?
-1. TALLINN//
-2. MBABANE
-3. DUBLIN
-4. PORTO-NOVO
-What is the capital of AZERBAIJAN?
-1. SUCRE
-2. BRASILIA
-3. BAKU//
-4. DUBLIN
 What is the capital of ERITREA?
-1. CANBERRA
-2. ASMARA//
-3. ROSEAU
-4. YEREVAN
-What is the capital of URUGUAY?
-1. SANTO DOMINGO//
-2. VIENNA
-3. MONTEVIDEO
-4. BRUSSELS
-What is the capital of BOSNIA & HERZEGOVINA?
-1. ROSEAU//
-2. NAIROBI
+1. ASMARA
+2. BISSAU
 3. BAKU
-4. SARAJEVO
-What is the capital of ESTONIA?
+4. BANJUL
+What is the capital of ESWATINI (formerly Swaziland)?
 1. TALLINN
-2. BAKU
+2. VIENTIANE
+3. ANDORRA LA VELLA
+4. MBABANE
+What is the capital of HONDURAS?
+1. BEIRUT
+2. TEGUCIGALPA
+3. PRISTINA
+4. MASERU
+What is the capital of BOLIVIA?
+1. BAGHDAD
+2. BUDAPEST
+3. LUANDA
+4. SUCRE
+What is the capital of DOMINICAN REPUBLIC?
+1. ACCRA
+2. HARARE
+3. BUDAPEST
+4. SANTO DOMINGO
+What is the capital of GUINEA-BISSAU?
+1. ROSEAU
+2. MANAMA
+3. BISSAU
+4. FUNAFUTI
+What is the capital of KOSOVO?
+1. BRASILIA
+2. SAINT JOHN'S
+3. PRISTINA
+4. HELSINKI
+What is the capital of BURUNDI?
+1. SANTO DOMINGO
+2. GITEGA, BUJUMBURA
+3. COPENHAGEN
+4. SAN JOSE
+What is the capital of COLOMBIA?
+1. ASHGABAT
+2. BANGUI
+3. BOGOT
+4. SARAJEVO
+What is the capital of UNITED ARAB EMIRATES?
+1. TALLINN
+2. ABU DHABI
+3. CAIRO
+4. SAN SALVADOR
+What is the capital of EGYPT?
+1. KABUL
+2. LUANDA
+3. BELMOPAN
+4. CAIRO
+What is the capital of EQUATORIAL GUINEA?
+1. DJIBOUTI CITY
+2. MALABO
+3. LUSAKA
+4. MALABO
+What is the capital of BELGIUM?
+1. TEGUCIGALPA
+2. BRUSSELS
+3. SAINT JOHN'S
+4. MALABO
+What is the capital of LAOS?
+1. KABUL
+2. SUVA
+3. DJIBOUTI CITY
+4. VIENTIANE
+What is the capital of EL SALVADOR?
+1. SAINT GEORGE'S
+2. KINGSTON
+3. SAN SALVADOR
+4. SAINT JOHN'S
+What is the capital of ALGERIA?
+1. ALGIERS
+2. PARIS
+3. OUAGADOUGOU
+4. ALGIERS
+What is the capital of CROATIA?
+1. HANOI
+2. VIENNA
+3. ZAGREB
+4. MORONI
+What is the capital of ANTIGUA & BARBUDA?
+1. ASHGABAT
+2. SAINT JOHN'S
+3. WASHINGTON, DC
+4. KINSHASA
+What is the capital of TUVALU?
+1. AMMAN
+2. TASHKENT
+3. HARARE
+4. FUNAFUTI
+What is the capital of ICELAND?
+1. VILNIUS
+2. PORTO-NOVO
+3. ASHGABAT
+4. REYKJAVIK
+What is the capital of BRAZIL?
+1. LUSAKA
+2. BRASILIA
+3. BRIDGETOWN
+4. ACCRA
+What is the capital of ZAMBIA?
+1. SARAJEVO
+2. TRIPOLI
+3. LUSAKA
+4. CONAKRY
+What is the capital of BRUNEI?
+1. MORONI
+2. ZAGREB
+3. MONTEVIDEO
+4. BANDAR SERI BEGAWAN
+What is the capital of COSTA RICA?
+1. PORTO-NOVO
+2. SAN JOSE
+3. HAVANA
+4. KINGSTON
+What is the capital of BHUTAN?
+1. ACCRA
+2. THIMPHU
+3. PORTO-NOVO
+4. GABORONE
+What is the capital of FINLAND?
+1. JAKARTA
+2. LUANDA
+3. HELSINKI
+4. ROSEAU
+What is the capital of LATVIA?
+1. OUAGADOUGOU
+2. RIGA
+3. BANDAR SERI BEGAWAN
+4. YAOUNDE
+What is the capital of URUGUAY?
+1. MONTEVIDEO
+2. HARARE
+3. GUATEMALA CITY
+4. LONDON
+What is the capital of FRANCE?
+1. TBILISI
+2. SUVA
+3. PORT VILA
+4. PARIS
+What is the capital of BAHAMAS, THE?
+1. NAIROBI
+2. SOFIA
+3. NASSAU
+4. SAINT JOHN'S
+What is the capital of JAPAN?
+1. BAGHDAD
+2. PRAIA
+3. SARAJEVO
+4. TOKYO
+What is the capital of CUBA?
+1. PRISTINA
+2. SOUTH TARAWA
+3. GUATEMALA CITY
+4. HAVANA
+What is the capital of UZBEKISTAN?
+1. BAGHDAD
+2. NAIROBI
+3. TASHKENT
+4. N'DJAMENA
+What is the capital of CONGO, DEMOCRATIC REPUBLIC OF THE?
+1. KINSHASA
+2. KINSHASA
+3. DUBLIN
+4. VILNIUS
+What is the capital of KENYA?
+1. HANOI
+2. NAIROBI
+3. MONROVIA
+4. OUAGADOUGOU
+What is the capital of FIJI?
+1. JAKARTA
+2. ZAGREB
+3. KIEV
+4. SUVA
+What is the capital of CAMBODIA?
+1. BRAZZAVILLE
+2. BANDAR SERI BEGAWAN
+3. PHNOM PENH
+4. SAINT JOHN'S
+What is the capital of CHILE?
+1. QUITO
+2. ATHENS
+3. ZAGREB
+4. SANTIAGO
+What is the capital of VANUATU?
+1. TALLINN
+2. PORT VILA
+3. BISSAU
+4. GUATEMALA CITY
+What is the capital of AZERBAIJAN?
+1. BAKU
+2. BRUSSELS
+3. PRISTINA
+4. CONAKRY
+What is the capital of GAMBIA, THE?
+1. BANJUL
+2. SAN JOSE
+3. BEIRUT
+4. KAMPALA
+What is the capital of INDONESIA?
+1. KINSHASA
+2. SANTIAGO
+3. PHNOM PENH
+4. JAKARTA
+What is the capital of VIETNAM?
+1. HANOI
+2. DUBLIN
 3. ATHENS
-4. SUVA//
+4. OTTAWA
+What is the capital of GREECE?
+1. MANAMA
+2. ATHENS
+3. KIEV
+4. ZAGREB
+What is the capital of GRENADA?
+1. NASSAU
+2. CARACAS
+3. SAINT GEORGE'S
+4. ANDORRA LA VELLA
+What is the capital of DJIBOUTI?
+1. COPENHAGEN
+2. DJIBOUTI CITY
+3. HELSINKI
+4. KABUL
+What is the capital of BANGLADESH?
+1. CAIRO
+2. HAVANA
+3. DHAKA
+4. PARIS
+What is the capital of ECUADOR?
+1. QUITO
+2. SANTIAGO
+3. GITEGA, BUJUMBURA
+4. GUATEMALA CITY
+What is the capital of ZIMBABWE?
+1. RIGA
+2. HARARE
+3. N'DJAMENA
+4. SUCRE
+What is the capital of GUATEMALA?
+1. ACCRA
+2. GUATEMALA CITY
+3. SAINT GEORGE'S
+4. THIMPHU
+What is the capital of GABON?
+1. PRAIA
+2. LIBREVILLE
+3. MASERU
+4. ASMARA
+What is the capital of UGANDA?
+1. KAMPALA
+2. TOKYO
+3. SOUTH TARAWA
+4. TALLINN
+What is the capital of GERMANY?
+1. GUATEMALA CITY
+2. BERLIN
+3. VIENTIANE
+4. JAKARTA
+What is the capital of DOMINICA?
+1. ROSEAU
+2. WASHINGTON, DC
+3. BANDAR SERI BEGAWAN
+4. HANOI
+What is the capital of KYRGYZSTAN?
+1. HAVANA
+2. DJIBOUTI CITY
+3. BISHKEK
+4. CARACAS
+What is the capital of COMOROS?
+1. MORONI
+2. VIENNA
+3. PORT VILA
+4. KINSHASA
+What is the capital of BOTSWANA?
+1. PORTO-NOVO
+2. GABORONE
+3. NEW DELHI
+4. BERLIN
+What is the capital of GHANA?
+1. ACCRA
+2. ACCRA
+3. YAOUNDE
+4. MALABO
+What is the capital of YEMEN?
+1. NEW DELHI
+2. SANA'A
+3. THIMPHU
+4. BAKU
+What is the capital of IRAN?
+1. ABU DHABI
+2. ALGIERS
+3. YAOUNDE
+4. TEHRAN
+What is the capital of CHAD?
+1. N'DJAMENA
+2. TEGUCIGALPA
+3. HELSINKI
+4. ASHGABAT
+What is the capital of AUSTRIA?
+1. VIENNA
+2. SUVA
+3. SAN JOSE
+4. PRISTINA
+What is the capital of ALBANIA?
+1. TASHKENT
+2. SAINT GEORGE'S
+3. ANDORRA LA VELLA
+4. TIRANA
+What is the capital of CHINA?
+1. BEIJING
+2. VIENNA
+3. GEORGETOWN
+4. YAOUNDE
+What is the capital of HUNGARY?
+1. ACCRA
+2. PRAGUE
+3. BUDAPEST
+4. CARACAS
+What is the capital of IRAQ?
+1. GEORGETOWN
+2. BAGHDAD
+3. MASERU
+4. VADUZ
+What is the capital of ANGOLA?
+1. LUANDA
+2. ROSEAU
+3. HAVANA
+4. GEORGETOWN
+What is the capital of GUYANA?
+1. LUANDA
+2. HAVANA
+3. GEORGETOWN
+4. PRISTINA
+What is the capital of LIECHTENSTEIN?
+1. VADUZ
+2. BRIDGETOWN
+3. SAN SALVADOR
+4. SARAJEVO
+What is the capital of INDIA?
+1. OUAGADOUGOU
+2. ADDIS ABABA
+3. LIBREVILLE
+4. NEW DELHI
+What is the capital of ARMENIA?
+1. YEREVAN
+2. SAN JOSE
+3. SARAJEVO
+4. PORTO-NOVO
+What is the capital of Czech Republic?
+1. FUNAFUTI
+2. BOGOT
+3. PRAGUE
+4. ROME
+What is the capital of AUSTRALIA?
+1. CANBERRA
+2. SANA'A
+3. SANTIAGO
+4. BANGUI
+What is the capital of HAITI?
+1. SAINT GEORGE'S
+2. OUAGADOUGOU
+3. VIENNA
+4. PORT-AU-PRINCE
+What is the capital of LIBERIA?
+1. SARAJEVO
+2. MORONI
+3. GEORGETOWN
+4. MONROVIA
 What is the capital of CABO VERDE?
 1. PRAIA
-2. LUANDA//
-3. TIRANA
-4. ABU DHABI
-What is the capital of KOSOVO?
-1. PRISTINA
-2. PHNOM PENH
-3. PRISTINA//
-4. OTTAWA
-What is the capital of COSTA RICA?
-1. ACCRA
-2. SAN JOSE//
-3. LONDON
-4. VIENNA
-What is the capital of EGYPT?
-1. CAIRO//
-2. CANBERRA
-3. BISHKEK
-4. CARACAS
-What is the capital of KAZAKHSTAN?
-1. BAGHDAD
-2. NUR-SULTAN//
-3. ADDIS ABABA
-4. WASHINGTON, DC
-What is the capital of CANADA?
-1. OTTAWA//
-2. VIENTIANE
-3. KUWAIT CITY
-4. GABORONE
-What is the capital of COSTA RICA?
-1. BOGOT
-2. SAN JOSE
-3. PORT-AU-PRINCE//
-4. BUDAPEST
-What is the capital of GHANA?
-1. TEHRAN
-2. ACCRA
-3. KABUL
-4. MONROVIA//
-What is the capital of LITHUANIA?
-1. BAGHDAD
-2. BUDAPEST
-3. VILNIUS
-4. TEGUCIGALPA//
-What is the capital of CHAD?
-1. GUATEMALA CITY
-2. N'DJAMENA
-3. ATHENS
-4. TALLINN//
-What is the capital of FINLAND?
-1. HELSINKI//
-2. BAGHDAD
-3. DJIBOUTI CITY
-4. HANOI
-What is the capital of ERITREA?
-1. BERLIN
-2. ASMARA//
-3. PRAIA
-4. SANA'A
-What is the capital of CROATIA?
-1. ZAGREB
-2. KAMPALA//
-3. ATHENS
-4. SUVA
-What is the capital of BELARUS?
-1. MINSK
-2. MONROVIA//
-3. CANBERRA
-4. VIENTIANE
-What is the capital of TURKMENISTAN?
-1. TIRANA
-2. TRIPOLI
-3. ROME
-4. ASHGABAT//
-What is the capital of CHAD?
-1. N'DJAMENA//
-2. LIBREVILLE
-3. OTTAWA
+2. DUBLIN
+3. ZAGREB
 4. HELSINKI
-What is the capital of HUNGARY?
-1. HANOI
-2. VIENTIANE
-3. BUDAPEST//
-4. PORT VILA
-What is the capital of BRAZIL?
-1. BRASILIA//
-2. BRIDGETOWN
-3. BISHKEK
-4. MORONI
+What is the capital of CANADA?
+1. N'DJAMENA
+2. SANTIAGO
+3. DHAKA
+4. OTTAWA
+What is the capital of UKRAINE?
+1. KIEV
+2. BAKU
+3. MASERU
+4. TEGUCIGALPA
+What is the capital of GUINEA?
+1. FUNAFUTI
+2. PARIS
+3. CONAKRY
+4. NASSAU
+What is the capital of CONGO, REPUBLIC OF THE?
+1. KINGSTON
+2. HARARE
+3. ROME
+4. BRAZZAVILLE
+What is the capital of VENEZUELA?
+1. CARACAS
+2. MASERU
+3. TOKYO
+4. BANDAR SERI BEGAWAN
+What is the capital of BOSNIA & HERZEGOVINA?
+1. HAVANA
+2. KINSHASA
+3. SARAJEVO
+4. SANTIAGO
+What is the capital of LIBYA?
+1. SANTO DOMINGO
+2. ASHGABAT
+3. REYKJAVIK
+4. TRIPOLI
+What is the capital of DENMARK?
+1. COPENHAGEN
+2. HELSINKI
+3. ADDIS ABABA
+4. PHNOM PENH
 What is the capital of JORDAN?
-1. LUSAKA
-2. QUITO
-3. PORT-AU-PRINCE
-4. AMMAN//
-What is the capital of AZERBAIJAN?
-1. ASMARA
-2. BAKU//
-3. AMMAN
+1. ACCRA
+2. TOKYO
+3. TEHRAN
+4. AMMAN
+What is the capital of BULGARIA?
+1. SOFIA
+2. ADDIS ABABA
+3. KINGSTON
+4. VIENNA
+What is the capital of BELARUS?
+1. TASHKENT
+2. PORTO-NOVO
+3. MINSK
+4. MALABO
+What is the capital of ISRAEL?
+1. NUR-SULTAN
+2. DJIBOUTI CITY
+3. JERUSALEM
+4. LUANDA
+What is the capital of LESOTHO?
+1. KIEV
+2. HELSINKI
+3. HANOI
+4. MASERU
+What is the capital of ESTONIA?
+1. PRISTINA
+2. SAINT GEORGE'S
+3. TALLINN
+4. BRUSSELS
+What is the capital of BENIN?
+1. BISSAU
+2. VIENTIANE
+3. PORTO-NOVO
+4. KIEV
+What is the capital of BELIZE?
+1. KUWAIT CITY
+2. ASMARA
+3. MANAMA
+4. BELMOPAN
+What is the capital of LITHUANIA?
+1. ALGIERS
+2. BAGHDAD
+3. VILNIUS
+4. MONROVIA
+What is the capital of BARBADOS?
+1. REYKJAVIK
+2. BRIDGETOWN
+3. BEIRUT
 4. LONDON
-What is the capital of VIETNAM?
-1. BEIJING
-2. HANOI//
-3. BISHKEK
-4. LIBREVILLE
+What is the capital of JAMAICA?
+1. BAKU
+2. TASHKENT
+3. KINGSTON
+4. KINSHASA
+What is the capital of IRELAND?
+1. OUAGADOUGOU
+2. MINSK
+3. COPENHAGEN
+4. DUBLIN
+What is the capital of KIRIBATI?
+1. SOUTH TARAWA
+2. GITEGA, BUJUMBURA
+3. FUNAFUTI
+4. TOKYO
+What is the capital of CYPRUS?
+1. NICOSIA
+2. SAINT JOHN'S
+3. NICOSIA
+4. MONROVIA
+What is the capital of KAZAKHSTAN?
+1. NUR-SULTAN
+2. BANGUI
+3. DUBLIN
+4. SAN JOSE
+What is the capital of CENTRAL AFRICAN REPUBLIC?
+1. JAKARTA
+2. BANGUI
+3. BAGHDAD
+4. DHAKA
+What is the capital of ANDORRA?
+1. GUATEMALA CITY
+2. PRISTINA
+3. ANDORRA LA VELLA
+4. SAN JOSE
+What is the capital of ARGENTINA?
+1. MINSK
+2. PORT VILA
+3. TIRANA
+4. BUENOS AIRES
+What is the capital of AFGHANISTAN?
+1. KABUL
+2. MINSK
+3. MBABANE
+4. WASHINGTON, DC
+What is the capital of KUWAIT?
+1. BEIRUT
+2. KUWAIT CITY
+3. KAMPALA
+4. KINSHASA
+What is the capital of BURKINA FASO?
+1. LUANDA
+2. CANBERRA
+3. ZAGREB
+4. OUAGADOUGOU
+What is the capital of TURKMENISTAN?
+1. NASSAU
+2. YEREVAN
+3. ADDIS ABABA
+4. ASHGABAT
+What is the capital of UNITED STATES OF AMERICA?
+1. ADDIS ABABA
+2. N'DJAMENA
+3. NASSAU
+4. WASHINGTON, DC
+What is the capital of ITALY?
+1. SANA'A
+2. ROME
+3. KINGSTON
+4. THIMPHU
+What is the capital of GEORGIA?
+1. BOGOT
+2. ASHGABAT
+3. MANAMA
+4. TBILISI
+What is the capital of CAMEROON?
+1. CARACAS
+2. YAOUNDE
+3. SAINT JOHN'S
+4. CAIRO

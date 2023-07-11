@@ -3,21 +3,30 @@ import random, capitals as cap
 countries = []
 
 for i in range(3):
-    countries = list(cap.capitals.keys())
+    countriesVar = list(cap.capitals.keys())
+    countriesConst = list(cap.capitals.keys())
 
     with open(f"quiz{i+1}.txt","w") as file:
+
         file.write("Type '//' after your answer.\n")
-        for j in range(50):
-            random.shuffle(countries)
-            file.write(f"What is the capital of {countries[j]}?\n")
-            answers = [cap.capitals[countries[j]],cap.capitals[countries[20]],cap.capitals[countries[4]],cap.capitals[countries[30]]]
+
+        for j in range(len(countriesVar)):
+
+            random.shuffle(countriesVar)
+            random.shuffle(countriesConst)
+
+            file.write(f"What is the capital of {countriesVar[-1]}?\n")
+
+            print(countriesVar[-1])
+            print(len(countriesVar))
+            answers = [cap.capitals[countriesVar[-1]],cap.capitals[countriesConst[-2]],cap.capitals[countriesConst[-4]],cap.capitals[countriesConst[-3]]]
+            
+            countriesVar.pop()
+            
             random.shuffle(answers)
+
             for k in range(4):
                 file.write(f"{k+1}. {answers[k]}\n")
-    
-    with open(f"answers{i+1}.txt","w") as file:
-        for j in range(50):
-            file.write(f"The capital of {countries[j]} is  {cap.capitals[countries[j]]}.\n")
             
 
 
